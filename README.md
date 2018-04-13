@@ -7,4 +7,4 @@ Steps:
 1. Queried data from Trimet's Twitter
 2. Flagged tweets by line and date
 3. Used logistic regression (80% train, 20% test)
-4. Cross validated 
+4. Cross validated, accuracy around 70%
